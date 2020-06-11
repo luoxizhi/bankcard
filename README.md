@@ -13,8 +13,6 @@
 
 3.离线扫描银行卡模块作为 SDK 输出，集成简单。
 
-![image-20200611103920342](https://tva1.sinaimg.cn/large/007S8ZIlly1gfo5fworsdj306z07z0ss.jpg)
-
 架构和算法示意图
 
 ![image-20200611104032815](https://tva1.sinaimg.cn/large/007S8ZIlly1gfo5h31k1tj30jp09jwgy.jpg)
